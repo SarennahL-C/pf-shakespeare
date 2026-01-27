@@ -35,7 +35,7 @@ The task required:
 
 ---
 
-## Approach Overview
+### Approach Overview
 
 - Text preprocessing and character mapping  
 - Sequence generation using sliding windows  
@@ -47,7 +47,7 @@ The task required:
 
 ---
 
-## Key Insights / Findings
+### Key Insights / Findings
 
 - The model successfully learned basic character-level patterns such as spacing, punctuation, and common letter combinations.  
 - Generated text exhibited limited semantic coherence, reflecting the constraints of a simple RNN architecture.  
@@ -58,7 +58,7 @@ Overall, the results illustrate both the potential and limitations of early recu
 
 ---
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 **Analysis**
 - Text preprocessing and sequence construction  
@@ -81,9 +81,13 @@ Overall, the results illustrate both the potential and limitations of early recu
 
 ---
 
-## Requirements / How to Run
+### Requirements
 
-Install the required Python dependencies:
+Install the required Python dependencies using `Requirements.txt`
 
-```bash
-pip install -r requirements.txt
+---
+
+### Why this project belongs in my portfolio
+Text generation presents fundamentally different challenges from tabular or image-based modelling, requiring an understanding of sequence, memory, and context.
+
+This project demonstrates my ability to extend core machine learning concepts into natural language data, evaluate model behaviour critically, and recognise the limitations of early architectures. While results are modest, the analysis provides a strong foundation for future exploration of more advanced NLP models such as LSTM, GRU, and transformer-based architectures.
