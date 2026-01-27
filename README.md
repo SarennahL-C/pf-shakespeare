@@ -14,7 +14,7 @@ The Chandros portrait of William Shakespeare, Wikimedia Commons.
 
 - **Jupyter Notebook:** RNN implementation and training workflow (`shakespeare_task.ipynb`)  
 - **Images:** visuals
-- **Dataset:** `tiny_shakespeare.txt` 
+- **Dataset:** `input_tiny_shakespeare.txt` 
 - **Requirements:** Python dependencies (`requirements.txt`)  
 
 ---
