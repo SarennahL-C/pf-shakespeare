@@ -4,7 +4,7 @@ This project implements a **character-level Recurrent Neural Network (RNN)** usi
 
 This project represents my **first foray into text-based machine learning**, extending my experience with neural networks from numerical and image data into natural language processing.
 
-![Portrait of William Shakespeare](960px-William_Shakespeare_by_John_Taylor_edited.jpg)
+![Portrait of William Shakespeare](128px-William_Shakespeare_by_John_Taylor_edited.jpg)
 
 The Chandros portrait of William Shakespeare, Wikimedia Commons.
 
