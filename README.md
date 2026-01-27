@@ -1,2 +1,4 @@
+By Attributed to John Taylor - one or more third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof. This may be due to recognition of the "sweat of the brow" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions.As such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement. Please see Commons:When to use the PD-Art tag for more information., Public Domain, https://commons.wikimedia.org/w/index.php?curid=147141653
+
 # pf-shakespeare
 Writes passages from a Shakespeare prompt.
