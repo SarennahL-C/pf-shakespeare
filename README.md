@@ -83,7 +83,7 @@ Overall, the results illustrate both the potential and limitations of early recu
 
 ### Requirements
 
-Install the required Python dependencies using `Requirements.txt`
+Install the required Python packages with: `pip install -r requirements.txt`
 
 ---
 
